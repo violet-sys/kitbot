@@ -1,0 +1,2 @@
+$nomention
+ニャー！ 招待するですここに！$getBotInvite

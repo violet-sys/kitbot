@@ -1,0 +1,10 @@
+$nomention
+$color[ADD8E6]
+$authorIcon[https://cdn.discordapp.com/attachments/698465116118843422/703102693664620624/unknown.png]
+$author[Aternos Server Checker]
+$description[Here [Click me](https://$message.aternos.me)
+Search:$message
+From:$username]
+$argsCheck[>1;:x:Invalid Search Put Something]
+$deletecommand
+$footer[Aternos Server Searcher • kitbot]

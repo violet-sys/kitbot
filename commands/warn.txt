@@ -1,0 +1,5 @@
+$nomention $warn
+$title[警告された！]
+$color[#FF0000]
+$footer[Warned by $username]
+$description[$allowMention was warned for $message]]

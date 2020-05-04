@@ -1,0 +1,6 @@
+$nomention $ban
+$argsCheck[2;違う注文！ Try k~ban {@username} {reason}]
+$title[禁止された！]
+$description[禁止された: <@$mentioned[1]>
+Banned by: <@$authorID>
+Reason: $noMentionMessage]

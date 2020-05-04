@@ -1,0 +1,7 @@
+$nomention
+$title[キックユーザー！]
+$description[User was kicked!]
+$footer[kitbot • ニャー！！]
+$color[ebc0c0]
+$kickMention[$noMentionMessage]
+$cooldown[5s;うわーつかまっている！]

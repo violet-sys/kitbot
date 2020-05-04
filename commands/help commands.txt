@@ -1,0 +1,17 @@
+$nomention
+$title[Commands - Help]
+$color[ff72]
+$description[なめる
+help is here!!
+-------------utility-------------
+k~wipe - deletes all the messages in the channel
+k~invite - sends a link to invite the bot
+k~serverchecker - checks servers beta command
+k~server - sends server information
+k~avatar - sends the avatar of the mentioned user
+-------------moderation-------------
+k~mute - mutes the mentioned user
+k~warn - warns the mentioned user
+------------administrator------------
+k~kick - kicks the mentioned user
+k~ban - bans the mentioned user]
